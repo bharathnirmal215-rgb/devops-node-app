@@ -113,8 +113,6 @@ const server = http.createServer((req, res) => {
 
         <h1>Welcome to My DevOps Project</h1>
 
-        <h2>Node.js Application Deployment</h2>
-
         <p>
             This application is deployed using GitHub, Ubuntu and PM2.
         </p>

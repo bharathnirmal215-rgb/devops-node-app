@@ -1,0 +1,10 @@
+Linux 
+Git & Github 
+Networking 
+GCP 
+Terraform 
+Ansible 
+CI/CD
+Jenkins 
+Docker 
+Kubernetes 
